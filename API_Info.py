@@ -1,7 +1,7 @@
 #spotify keys
 spotify_client_ID = "150d57fa8da244de9fd92f9183069765"
 spotify_client_secret = "451cbccc65ae478e8dfa0d3157ce01f6"
-spotify_access_token = "BQBN_Otnf7A3ECrUn0kQe0E3xLlf6Nu3RmLIPn"
+spotify_access_token = "BQCkvcZFIR6kBeXFcwNEe6BgEQ8XrPCy"
 spotify_redirect_URI = "http://localhost:1245367208"
 
 #Genius Keys
